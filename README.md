@@ -6,9 +6,9 @@ This repository contains the solution to the Cognizant DeepSkilling .NET Full St
 
 ## 📌 Project Modules
 
-1. ✅ Singleton Pattern – Implemented using a console application
-2. 🔧 Factory Pattern – (If applicable)
-3. 📊 Data Structures & Algorithms – Custom C# implementations
+1. ✅ Singleton Pattern
+2. 🔧 Factory Pattern 
+3. 📊 Data Structures & Algorithms 
 4. 🧱 ASP.NET Core Web API – Backend services for CRUD operations
 5. 🗃️ Entity Framework Core – Database connectivity and ORM
 6. 🌐 Frontend (Optional) – React/Angular/MVC
