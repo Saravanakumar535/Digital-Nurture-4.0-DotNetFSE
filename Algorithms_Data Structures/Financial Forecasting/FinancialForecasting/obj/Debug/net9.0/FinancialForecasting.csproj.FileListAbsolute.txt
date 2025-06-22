@@ -1,0 +1,14 @@
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.exe
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.deps.json
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.runtimeconfig.json
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.dll
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.pdb
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.AssemblyInfoInputs.cache
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.AssemblyInfo.cs
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.dll
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\refint\FinancialForecasting.dll
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.pdb
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.genruntimeconfig.cache
+E:\Algorithms_Data Structures\Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\ref\FinancialForecasting.dll
