@@ -1,18 +1,30 @@
-# Singleton Pattern Example in C#
+# 👨‍💻 Cognizant Dev/DeepSkilling .NET Full Stack Assignment
 
-This project demonstrates the implementation of the **Singleton Design Pattern** in C# using a simple `Logger` class.
-
-## 📌 What is the Singleton Pattern?
-
-The **Singleton Pattern** ensures that a class has only one instance throughout the lifetime of an application and provides a global point of access to it.
-
-### 🛠 Key Features
-
-- Only one instance of `Logger` is ever created.
-- Multiple calls to `Logger.GetInstance()` return the same instance.
-- Ensures controlled access and lazy initialization.
+This repository contains the solution to the Cognizant DeepSkilling .NET Full Stack Developer training assignments. The goal is to build backend logic using C# and .NET and, optionally, frontend components for a full-stack understanding.
 
 ---
+
+## 📌 Project Modules
+
+1. ✅ Singleton Pattern – Implemented using a console application
+2. 🔧 Factory Pattern – (If applicable)
+3. 📊 Data Structures & Algorithms – Custom C# implementations
+4. 🧱 ASP.NET Core Web API – Backend services for CRUD operations
+5. 🗃️ Entity Framework Core – Database connectivity and ORM
+6. 🌐 Frontend (Optional) – React/Angular/MVC
+7. 🧪 Unit Testing (Optional) – xUnit/NUnit test projects
+
+---
+
+## 🛠️ Technologies Used
+
+- [.NET SDK 6 / 7 / 8+](https://dotnet.microsoft.com/)
+- C# Console Applications
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server / LocalDB
+- Visual Studio Code / Visual Studio
+- Git & GitHub
 
 
 
