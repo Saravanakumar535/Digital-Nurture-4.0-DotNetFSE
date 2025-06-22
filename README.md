@@ -1,4 +1,4 @@
-# 👨‍💻 Cognizant Dev/DeepSkilling .NET Full Stack Assignment
+# 👨‍💻 Cognizant DeepSkilling .NET Assignments
 
 This repository contains the solution to the Cognizant DeepSkilling .NET Full Stack Developer training assignments. The goal is to build backend logic using C# and .NET and, optionally, frontend components for a full-stack understanding.
 
