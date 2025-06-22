@@ -1,0 +1,14 @@
+E:\Factory method pattern\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.exe
+E:\Factory method pattern\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.deps.json
+E:\Factory method pattern\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.runtimeconfig.json
+E:\Factory method pattern\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.dll
+E:\Factory method pattern\FactoryMethodPattern\bin\Debug\net9.0\FactoryMethodPattern.pdb
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.AssemblyInfo.cs
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.dll
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\refint\FactoryMethodPattern.dll
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.pdb
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\FactoryMethodPattern.genruntimeconfig.cache
+E:\Factory method pattern\FactoryMethodPattern\obj\Debug\net9.0\ref\FactoryMethodPattern.dll
