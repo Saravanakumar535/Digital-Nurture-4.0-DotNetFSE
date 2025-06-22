@@ -18,7 +18,7 @@ This repository contains the solution to the Cognizant DeepSkilling .NET Full St
 
 ## 🛠️ Technologies Used
 
-- [.NET SDK 6 / 7 / 8+](https://dotnet.microsoft.com/)
+- .NET SDK 
 - C# Console Applications
 - ASP.NET Core Web API
 - Entity Framework Core
