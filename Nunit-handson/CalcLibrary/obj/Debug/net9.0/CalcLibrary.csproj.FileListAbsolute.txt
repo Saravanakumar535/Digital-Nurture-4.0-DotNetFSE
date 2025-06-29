@@ -1,0 +1,11 @@
+E:\NUnit-Handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.deps.json
+E:\NUnit-Handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.dll
+E:\NUnit-Handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.pdb
+E:\NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfoInputs.cache
+E:\NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfo.cs
+E:\NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.csproj.CoreCompileInputs.cache
+E:\NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.dll
+E:\NUnit-Handson\CalcLibrary\obj\Debug\net9.0\refint\CalcLibrary.dll
+E:\NUnit-Handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.pdb
+E:\NUnit-Handson\CalcLibrary\obj\Debug\net9.0\ref\CalcLibrary.dll

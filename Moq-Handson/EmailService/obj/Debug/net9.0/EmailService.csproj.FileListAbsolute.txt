@@ -1,0 +1,11 @@
+E:\Moq-Handson\EmailService\bin\Debug\net9.0\EmailService.deps.json
+E:\Moq-Handson\EmailService\bin\Debug\net9.0\EmailService.dll
+E:\Moq-Handson\EmailService\bin\Debug\net9.0\EmailService.pdb
+E:\Moq-Handson\EmailService\obj\Debug\net9.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Moq-Handson\EmailService\obj\Debug\net9.0\EmailService.AssemblyInfoInputs.cache
+E:\Moq-Handson\EmailService\obj\Debug\net9.0\EmailService.AssemblyInfo.cs
+E:\Moq-Handson\EmailService\obj\Debug\net9.0\EmailService.csproj.CoreCompileInputs.cache
+E:\Moq-Handson\EmailService\obj\Debug\net9.0\EmailService.dll
+E:\Moq-Handson\EmailService\obj\Debug\net9.0\refint\EmailService.dll
+E:\Moq-Handson\EmailService\obj\Debug\net9.0\EmailService.pdb
+E:\Moq-Handson\EmailService\obj\Debug\net9.0\ref\EmailService.dll
