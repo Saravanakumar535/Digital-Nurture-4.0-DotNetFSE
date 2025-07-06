@@ -16,7 +16,7 @@ This repository contains the solution to the Cognizant DeepSkilling .NET Full St
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - .NET SDK 
 - C# Console Applications
